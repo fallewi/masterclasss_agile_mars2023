@@ -1,1 +1,1 @@
-dev des entités du microservices java ok
+dev des entités du microservices java fait
